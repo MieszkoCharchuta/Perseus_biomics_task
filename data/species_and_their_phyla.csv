@@ -1,0 +1,9 @@
+species,measured,expected,phylum
+Bacillus subtilis,21.282425099900188,14,Firmicutes 
+Enterococcus faecalis,9.79622712748174,14,Firmicutes 
+Escherichia coli,18.764807967761215,14,Proteobacteria 
+Listeria monocytogenes,17.316325494981538,14,Firmicutes 
+Pseudomonas aeruginosa,7.755210876958177,14,Proteobacteria 
+Salmonella enterica,6.7212044914420215,14,Proteobacteria 
+Staphylococcus aureus,16.668425741400156,14,Firmicutes 
+Saccharomyces cerevisiae,1.6953732000749515,2,Ascomycota
